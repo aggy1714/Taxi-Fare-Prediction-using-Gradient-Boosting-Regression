@@ -1,5 +1,5 @@
 Project Overview
-This project focuses on building a machine learning model to predict taxi fares based on various features such as searches, bookings, drivers' earnings, and distance travelled. The model uses a Gradient Boosting Regressor and is evaluated using metrics like Root Mean Squared Error (RMSE). The dataset used contains detailed information about taxi trips and related metrics.
+Created a Prediction Model that would predict the average Fare Prices of Autos'in Bengaluru based on features such as searches, bookings, drivers' earnings, and distance traveled. The model uses a Gradient Boosting Regressor and is evaluated using Root Mean Squared Error (RMSE). The dataset used contains detailed information about taxi trips and related metrics.
 
 Dataset
 Source: [https://www.kaggle.com/datasets/stacknishant/namma-yatri-cab-bookings-bangalore-open-data/data] 
